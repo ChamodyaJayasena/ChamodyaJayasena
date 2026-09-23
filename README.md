@@ -484,7 +484,7 @@ An Android application designed to help users manage daily habits and track well
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=ChamodyaJayasena&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=12"
+  src="https://github-readme-stats.vercel.app/api?username=ChamodyaJayasena&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&border_radius=12"
   alt="Chamodya Jayasena GitHub Statistics"
 />
 
@@ -508,26 +508,6 @@ An Android application designed to help users manage daily habits and track well
   width="55%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodyaJayasena&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=12"
   alt="Chamodya Jayasena Most Used Languages"
-/>
-
-</a>
-
-</div>
-
-
-<!-- =========================
-     GITHUB CONTRIBUTIONS
-========================= -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/ChamodyaJayasena">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ChamodyaJayasena&bg_color=0f172a&color=60a5fa&line=6366f1&point=ffffff&area=true&hide_border=true"
-  alt="Chamodya Jayasena GitHub Activity Graph"
 />
 
 </a>
